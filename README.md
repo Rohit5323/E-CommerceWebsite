@@ -1,7 +1,3 @@
-# E-CommerceWebsite
-
-https://drive.google.com/file/d/1RD3PpI9wucvLYo-Af1YKyOXrxyIYqW15/view?usp=sharing
-
 # 🛒 E-Commerce Website (WordPress Project)
 
 Welcome to my **E-Commerce Website** project built using **WordPress**. This project is a fully functional online store that showcases various products with an intuitive user interface, custom design, and responsive layout.
