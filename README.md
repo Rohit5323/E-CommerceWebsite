@@ -50,7 +50,7 @@ You can view or download the project from the Google Drive link below:
 
 ## 📷 Screenshots
 
-![Homepage Screenshot](https://drive.google.com/file/d/1wJCdTqoqOcZrOidPp24ynQZMlRf-iMY4/view?usp=sharing)
+![Homepage Screenshot](https://drive.google.com/uc?export=view&id=1wJCdTqoqOcZrOidPp24ynQZMlRf-iMY4)
 
 ---
 
